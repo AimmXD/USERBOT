@@ -1,29 +1,39 @@
 {
     "name": "𝗭𝗘𝗨𝗦 𝗨𝗦𝗘𝗥𝗕𝗢𝗧",
-    "logo": "https://telegra.ph/file/6e8bb5bb7cd3a4a534683.jpg",
+    "logo": "https://telegra.ph/file/0b520f40be4bbca3835e2.jpg",
     "description": "An first Telegram Userbot with multi Clients for Spamming or Mass.",
     "keywords": ["pyrogram", "userbot"],
-    "repository": "https://github.com/Sagexdd/USERBOT2",
+    "repository": "https://github.com/AimmXD/USERBOT",
   "stack": "container",
     "env": {
         "STRING_SESSION1": {
-            "description": "fill with the telethon session string",
+            "description": "fill with the Pyrogram V2 String session get from @SessionFatherRobot on telegram @",
             "required": true
         },
         "MONGO_URL": {
             "description": "Fill there an mongo database from mongodb.com",
             "required": true,
-            "value": "mongodb+srv://Krishna:pss968048@cluster0.4rfuzro.mongodb.net/?retryWrites=true&w=majority"
+            "value": "mongodb+srv://aimx:aimxbots@cluster0.hbavtnw.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+        },
+        "HEROKU_API_KEY": {
+            "description": "Enter Your Heroku Api Key.",
+            "required": true,
+            "value": ""
+        },
+        "HEROKU_APP_NAME": {
+            "description": "Enter Your Heroku App Name.",
+            "required": true,
+            "value": ""
         },
         "SUDO_USERS": {
             "description": "don't Change this there /id",
             "required": true,
-            "value": "5959308905"
+            "value": "7044451651"
         },
         "OWNER_ID": {
             "description": "Fill there your I'd",
             "required": true,
-            "value": "7037832227"
+            "value": "6348268237"
         },
         "BOT_TOKEN": {
             "description": "fill with your bot token get from @BotFather on telegram",

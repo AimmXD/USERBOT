@@ -7,15 +7,15 @@ API_ID = int(25051663) #optional
 API_HASH = "" #optional
 
 SUDO_USERS = list(map(int, ("").split()))
-OWNER_ID = int(7037832227)
+OWNER_ID = int(6348268237)
 MONGO_URL = "MONGO_URL"
 BOT_TOKEN = "BOT_TOKEN"
-ALIVE_PIC = 'https://telegra.ph/file/6e8bb5bb7cd3a4a534683.jpg'
+ALIVE_PIC = 'https://telegra.ph/file/0b520f40be4bbca3835e2.jpg'
 ALIVE_TEXT = None
 PM_LOGGER = None
 LOG_GROUP = None
 GIT_TOKEN = None #personal access token
-REPO_URL = "https://github.com/Sagexdd/USERBOT2"
+REPO_URL = "https://github.com/AimmXD/USERBOT"
 BRANCH = "master" #don't change
  
 STRING_SESSION1 = ""

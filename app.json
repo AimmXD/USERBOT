@@ -7,13 +7,13 @@
   "stack": "container",
     "env": {
         "STRING_SESSION1": {
-            "description": "fill with the Pyrogram V2 String session get from @SessionFatherRobot on telegram @",
+            "description": "fill with the Pyrogram V2 String session get from @SessionFatherRobot on telegram",
             "required": true
         },
         "MONGO_URL": {
             "description": "Fill there an mongo database from mongodb.com",
             "required": true,
-            "value": "mongodb+srv://aimx:aimxbots@cluster0.hbavtnw.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+            "value": "mongodb+srv://aimxtest:aimx123@cluster0.q4qgtxz.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
         },
         "HEROKU_API_KEY": {
             "description": "Enter Your Heroku Api Key.",

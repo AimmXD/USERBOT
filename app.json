@@ -2,7 +2,7 @@
     "name": "𝗔𝗶𝗺𝗫 𝗨𝗦𝗘𝗥𝗕𝗢𝗧",
     "logo": "https://telegra.ph/file/0b520f40be4bbca3835e2.jpg",
     "description": "An first Telegram Userbot with multi Clients for Spamming or Mass. Made by AimX",
-    "keywords": ["pyrogram", "userbot"],
+    "keywords": ["pyrogram", "userbot", "aimxuserbot"],
     "repository": "https://github.com/AimmXD/USERBOT",
   "stack": "container",
     "env": {

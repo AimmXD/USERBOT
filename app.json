@@ -26,7 +26,7 @@
             "value": ""
         },
         "SUDO_USERS": {
-            "description": "don't Change this there /id",
+            "description": "don't Change this there/id",
             "required": true,
             "value": "7044451651"
         },
